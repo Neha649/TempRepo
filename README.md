@@ -2,7 +2,7 @@
 
 <div align="center">
   <kbd>
-    <img src="[capture.jpg](https://github.com/Neha649/TempRepo/blob/main/Capture.JPG)" />
+    <img src="https://github.com/Neha649/TempRepo/blob/main/Capture.JPG" />
   </kbd>
 </div>
 
