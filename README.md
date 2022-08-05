@@ -1,4 +1,4 @@
-# STAR Application- Team CREW911
+# STAR Application - Team CREW911
 
 <div align="center">
   <kbd>
